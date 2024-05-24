@@ -1,0 +1,20 @@
+body{
+    background-color:  #ffe6ff;
+    overflow: hidden;
+}
+H2{
+    padding-left:90PX ;
+}
+P{
+    padding-left:100PX ;  
+}
+.glass{
+    padding-left:400px ;
+    margin-top: -600px;
+}
+.sneakers{
+    padding-left:800px ;
+    margin-top: -600px;
+
+    
+}

@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    overflow: hidden;
+
+}
+.right-side{
+    height:700px ;
+    width: 500px;
+}
+.left-side{
+    margin-left:700px;
+    margin-top: -600px;
+    padding-left:30px ;
+}
+h1{
+    color:gray ;
+    text-align: center;
+    margin-top:-300px ;
+    padding-left:400px ;
+    font-size:50px ;
+    font-style: italic;
+}
+h2{
+    color:white ;
+}
+.btn{
+        margin-left :500px ;
+        text-align: center;
+        position: relative;
+            width: 20%;
+            height: 40px;
+            background-color:skyblue 
+
+    }
+    button{
+        border-color: transparent;
+        padding-top: 5px;
+        background-color: transparent;
+    }
+    .btn a {
+        font-size: 20px;
+        text-decoration: none;
+        color:black;
+    }
+    @media all and (max-width:500){
+        nav
+        
+    }

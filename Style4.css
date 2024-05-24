@@ -1,0 +1,35 @@
+body{
+    background-color:  #d6d6c2;
+    overflow: hidden;
+}
+h2{
+    color: black;
+}
+ul{
+    color: black;
+}
+.pages{
+    padding-left:400px ;
+    margin-top:-200px ;
+}
+.service{
+    padding-left:700px ;
+    margin-top:-200px ;
+
+}
+h1{
+    padding-left:900px ;
+    margin-top:90px ;
+}
+img{
+    width: 200px;
+    padding-left:900px;
+    margin-top: -90px;
+    border-radius:90% ;
+}
+p{
+    padding-left:900px ;
+    margin-top: -90px;
+    color: #000000;
+
+}

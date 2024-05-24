@@ -1,0 +1,39 @@
+body{
+    background-image:url(../bride.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.icons{
+    color:white ;
+}
+h1{
+    color:grey;
+    padding-left:800px ;
+    text-align: center;
+    font-size:50px ;
+    margin-top:100px ;
+}
+.white img{
+    width: 200px;
+    border-radius: 900px;
+}
+.btn{
+    margin-left :700px ;
+    text-align: center;
+    position: relative;
+        width: 20%;
+        height: 40px;
+        background-color:skyblue 
+
+}
+button{
+    border-color: transparent;
+    padding-top: 5px;
+    background-color: transparent;
+}
+.btn a {
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+}

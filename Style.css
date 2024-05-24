@@ -1,0 +1,39 @@
+body{
+    background-image:url(../fashion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav{
+    text-align: right;
+    text-decoration: none;
+}
+.nav ul li{
+    display: inline-block;
+    margin-right: 50px;
+}
+.nav ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #d6d6c2;
+}
+h1{
+    text-align: center;
+    padding-left: 700px;
+    margin-top: 90px;
+    font-size: 60px;
+    font-style: italic;
+    color: #ff3333;
+}
+@media all and (max-width:450px) {
+    .nav ul li a{
+        position:fixed;
+    }
+    
+    
+}
+@media all and (min-width:700px) {
+    .nav ul li a{
+        position:fixed;
+    }
+    
+}
